@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin:0;
+	box-sizing: border-box;
+
+}
+
+div
+{
+	height:33.33vh;
+	padding-bottom:0;
+	margin-bottom:1px; 
+}
+
+input[type="number"]
+{
+	color: white;
+	background-color: black;
+	width: 100%;
+	height: 100%;
+	font-size: 8em;
+	text-align: center;
+	outline: none;
+
+}
+
+::-webkit-input-placeholder
+{
+	color: #222222;
+}
+::-moz-placeholder
+{
+	color: #222222;
+}
+::-ms-input-placeholder
+{
+	color: #222222;
+}
